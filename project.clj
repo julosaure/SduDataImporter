@@ -4,5 +4,6 @@
                  [clojure-solr "0.4.0-SNAPSHOT"],
                  ;;[icarus "0.1a"],
                  [chisel "1.0.0-SNAPSHOT"]]
+  :jvm-opts ["-Xmx515m"]
   ;;:main SduDataImporter.core
   )
