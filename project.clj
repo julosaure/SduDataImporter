@@ -5,5 +5,5 @@
                  ;;[icarus "0.1a"],
                  [chisel "1.0.0-SNAPSHOT"]]
   :jvm-opts ["-Xmx515m"]
-  ;;:main SduDataImporter.core
+  :main SduDataImporter.converter
   )
